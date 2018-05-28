@@ -98,7 +98,7 @@
     "vue": "^2.5.0",
     "vue-server-renderer": "^2.5.0",
     "vue-template-compiler": "^2.5.0",
-    "webpack": "^3.0.0",
+    "webpack": "https://github.com/thatguydan/webpack-cli",
     "webpack-merge": "^4.1.1",
     "yorkie": "^1.0.3"
   }
